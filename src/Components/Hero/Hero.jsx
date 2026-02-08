@@ -8,7 +8,7 @@ import app from "../Hero/images/app.png";
 import icon from "../Hero/images/icon.png";
 import icon1 from "../Hero/images/icon1.png";
 import iMG1 from "../Hero/images/iMG.png";
-import PricingSection from "./pricingSection";
+import PricingSection from "./PricingSection";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
