@@ -1,0 +1,99 @@
+{
+  "header": {
+    "demos": "Demo",
+    "pages": "Sahifalar",
+    "support": "Yordam",
+    "getStarted": "Boshlash"
+  },
+  "hero1": {
+    "title": "Keyingi",
+    "highlight": "landing sahifangizni yarating",
+    "description": "Omega yordamida yuqori konversiyali landing sahifalar yarating. Kod yozmasdan osongina qurish mumkin.",
+    "button": "14 kun bepul sinab ko‘rish",
+    "note": "Karta talab qilinmaydi"
+  },
+  "hero": {
+    "cards": {
+      "title1": "Zamonaviy Layoutlar",
+      "title2": "Bootstrap 4 asosida",
+      "title3": "To‘liq moslashuvchan",
+      "desc": "Ko‘plab bloklar yordamida kod yozmasdan sahifa yarating."
+    },
+    "pages": {
+      "title": "Chiroyli",
+      "highlight": "landing sahifalar yarating",
+      "desc": "Omega yordamida yuqori konversiyali sahifalar yarating.",
+      "check1": "50+ HTML Elementlar",
+      "check2": "Bootstrap 4 Framework",
+      "check3": "6 Oylik Yordam",
+      "check4": "Umrbod Yangilanish"
+    },
+    "device": {
+      "title": "Barcha qurilmalarda mukammal ishlaydi",
+      "desc": "Omega yordamida tez va oson yarating.",
+      "item1": "Tez UI Kit",
+      "item1desc": "Keyingi sahifangizni tez yarating.",
+      "item2": "Tayyor Sahifalar",
+      "item2desc": "Oson sozlash uchun oldindan tayyorlangan."
+    },
+    "testimonial": {
+      "title": "Mijozlar bizni yaxshi ko‘rishadi",
+      "desc": "Omega bilan tez sahifa yarating.",
+      "comment": "Omega orqali yangi landing page olganimga ishonolmayman!",
+      "name": "Jonathan Taylor",
+      "position": "CEO, Creativex"
+    }
+  },
+  "pricing": {
+  "title": "Narxlar va Rejalar",
+  "subtitle": "Omega yordamida yuqori konversiyali sahifalar yarating.",
+  "monthly": "Oylik",
+  "yearly": "Yillik",
+  "save": "25% tejang",
+  "starter": "Boshlang‘ich",
+  "business": "Biznes",
+  "perUser": "Har foydalanuvchi uchun",
+  "button": "14 kun bepul sinab ko‘rish",
+  "noCard": "Karta talab qilinmaydi",
+  "ctaTitle": "Tez yarating, tez ishga tushiring",
+  "ctaDesc": "Omega bilan tez va oson landing sahifalar yarating.",
+  "features": {
+    "f1": "5 ta responsiv landing sahifa",
+    "f2": "50+ HTML element",
+    "f3": "Cheksiz domen",
+    "f4": "6 oy premium yordam",
+    "f5": "Umrbod yangilanish"
+  },
+  "faq": {
+    "q1": "Omega’ni mijozlarim uchun ishlatsam bo‘ladimi?",
+    "a1": "Ha, albatta mumkin.",
+    "q2": "Bepul yangilanish bormi?",
+    "a2": "Ha, barcha yangilanishlar bepul.",
+    "q3": "WordPress bilan ishlaydimi?",
+    "a3": "Ha, moslash mumkin.",
+    "q4": "Support berasizmi?",
+    "a4": "Ha, premium yordam mavjud."
+  }
+},
+"footer": {
+  "description": "Ko‘plab noyob bloklar yordamida kod yozmasdan sahifa yarating.",
+  "quickLinks": "Tezkor havolalar",
+  "contactTitle": "Biz bilan bog‘lanish",
+  "contactDesc": "Savolingiz bormi? Biz bilan bog‘laning.",
+  "phone": "Telefon",
+  "email": "Email",
+  "address": "Manzil",
+  "rights": "Barcha huquqlar himoyalangan.",
+  "links": {
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "case": "Loyihalar",
+    "contact": "Aloqa",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "support": "Yordam",
+    "faq": "Savol-javob"
+  }
+}
+
+}

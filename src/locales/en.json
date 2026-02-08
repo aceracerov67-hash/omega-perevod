@@ -1,0 +1,99 @@
+{
+  "header": {
+    "demos": "Demos",
+    "pages": "Pages",
+    "support": "Support",
+    "getStarted": "Get Started"
+  },
+  "hero1": {
+    "title": "Get your next",
+    "highlight": "landing page",
+    "description": "Create high-converting landing pages with Omega easily without coding.",
+    "button": "Start 14 Days Free Trial",
+    "note": "No credit card required"
+  },
+  "hero": {
+    "cards": {
+      "title1": "Multiple Modern Layouts",
+      "title2": "Built with Bootstrap 4",
+      "title3": "Fully Responsive",
+      "desc": "Build your landing page easily without coding."
+    },
+    "pages": {
+      "title": "Make beautiful",
+      "highlight": "landing pages easily",
+      "desc": "Create high converting pages with Omega.",
+      "check1": "50+ HTML Elements",
+      "check2": "Bootstrap 4 Framework",
+      "check3": "6 Month Support",
+      "check4": "Lifetime Updates"
+    },
+    "device": {
+      "title": "Fits everything on all your devices",
+      "desc": "Create pages easily with Omega.",
+      "item1": "Faster Development UI Kits",
+      "item1desc": "Build your landing page quickly.",
+      "item2": "Pre-made Pages",
+      "item2desc": "Easy setup pages."
+    },
+    "testimonial": {
+      "title": "Customers love us",
+      "desc": "Create landing pages easily.",
+      "comment": "OMG! I cannot believe that I have got a brand new landing page after getting Omega.",
+      "name": "Jonathan Taylor",
+      "position": "CEO at Creativex"
+    }
+  },
+  "pricing": {
+  "title": "Pricing & Plans",
+  "subtitle": "Create custom landing pages with Omega that converts more visitors than any website.",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "save": "Save 25%",
+  "starter": "Starter",
+  "business": "Business",
+  "perUser": "Per user",
+  "button": "Start 14 Days Free Trial",
+  "noCard": "No credit card required",
+  "ctaTitle": "Build Fast, Launch Faster",
+  "ctaDesc": "Create custom landing pages with Omega that converts more visitors than any website.",
+  "features": {
+    "f1": "5 responsive landing pages",
+    "f2": "50+ HTML UI elements",
+    "f3": "Unlimited domains",
+    "f4": "6 months premium support",
+    "f5": "Lifetime updates"
+  },
+  "faq": {
+    "q1": "Can I use Omega for my clients?",
+    "a1": "Absolutely. You can build websites for yourself or your clients using Omega.",
+    "q2": "Do I get free updates?",
+    "a2": "Yes. We provide lifetime updates with your purchase.",
+    "q3": "Does it work with WordPress?",
+    "a3": "Yes, you can integrate and customize it easily.",
+    "q4": "Will you provide support?",
+    "a4": "Yes, premium support is included."
+  }
+},
+"footer": {
+  "description": "With lots of unique blocks, you can easily build a page without coding.",
+  "quickLinks": "Quick Links",
+  "contactTitle": "Contact Us",
+  "contactDesc": "Have a question or need help? Get in touch with our team.",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "rights": "All rights reserved.",
+  "links": {
+    "about": "About Us",
+    "services": "Our Services",
+    "case": "Case Studies",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "support": "Support",
+    "faq": "FAQ"
+  }
+}
+
+}
